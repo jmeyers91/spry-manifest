@@ -1,0 +1,18 @@
+{
+  "name": "@simplej/spry-manifest",
+  "version": "0.0.4",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^9.0.0"
+  }
+}
