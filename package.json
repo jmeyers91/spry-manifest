@@ -1,7 +1,6 @@
 {
   "name": "@simplej/spry-manifest",
-  "version": "0.0.4",
-  "description": "",
+  "version": "0.0.5",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -9,10 +8,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "globby": "^9.0.0"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "James Meyers",
+  "license": "MIT",
+  "homepage": "https://github.com/jmeyers91/spry-manifest#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeyers91/spry-manifest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmeyers91/spry-manifest/issues"
   }
 }
